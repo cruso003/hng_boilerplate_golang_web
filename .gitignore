@@ -28,6 +28,4 @@ _ignore/
 app.env
 tmp/
 .idea/
-
-
-app.env 
+ansible/inventory.cfg
